@@ -31,7 +31,7 @@ I am a Web & Game Developer from Russia<img src="https://media.tenor.com/cC_AxJ0
 ---
 
 ### :hammer_and_wrench: Languages & Tools :
-<div>
+<div id="langs-tools" align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VScode" alt="VScode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
@@ -51,5 +51,3 @@ I am a Web & Game Developer from Russia<img src="https://media.tenor.com/cC_AxJ0
 ### :bar_chart: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=karkar47&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=karkar47)](https://github.com/anuraghazra/github-readme-stats)
-
----
