@@ -13,9 +13,17 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=karkar47&style=flat-square&color=blue" alt=""/>
+<div id="views-counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=karkar47&style=flat-square&color=blue" alt=""/>
+</div>
+
 <h1>Yo, What's up man?</h1>
 
 
 ### :man_technologist: About Me :
-I am a Web & Game Developer from Russia<img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFBoJ4uzxCz7_y8EaX0Tb29Y2UUa1k3bezmN-1Gpbq4ktTfDaBraABdb6cgJLs8mkSeg0t8NR78iZE933LBLEUeKBy_l1m7Db-bCK7d4CcEqhFup4eWBf7KJYyPcRuNg1ZBI52gUrfscE/s0/Flag_of_Russia.gif" width="30">.
+I am a Web & Game Developer from Russia<img src="https://media.tenor.com/cC_AxJ05jJEAAAAi/russia-flag.gif" width="30">.
+- :sunglasses: I'm coding backend web aplications and making games.
+
+- :zap: In my free time, I read tech articles and watch tech videos on Youtube.
+
+- :email:How to reach me: [![Telegram Badge](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/karuchkar)
