@@ -21,8 +21,8 @@
 
 
 ### :man_technologist: About Me :
-I am a Web & Game Developer from Russia<img src="https://media.tenor.com/cC_AxJ05jJEAAAAi/russia-flag.gif" width="30">.
-- :sunglasses: I'm coding backend web aplications and making games.
+I am a Python (and some game & web) Developer from Russia<img src="https://media.tenor.com/cC_AxJ05jJEAAAAi/russia-flag.gif" width="30">.
+- :sunglasses: I'm coding backend applications.
 
 - :zap: In my free time, I read tech articles and watch tech videos on Youtube.
 
